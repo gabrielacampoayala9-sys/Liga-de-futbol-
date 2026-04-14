@@ -1,0 +1,17 @@
+# Nombre de la liga
+liga=Liga Colombiana
+
+# Puntos
+puntos_victoria=3
+puntos_empate=1
+puntos_derrota=0
+
+# Equipos
+equipo=Millonarios
+equipo=Santa Fe
+equipo=Atletico Nacional
+equipo=America de Cali
+equipo=Junior
+equipo=Deportivo Cali
+equipo=Once Caldas
+equipo=Tolima
